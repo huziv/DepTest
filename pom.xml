@@ -26,8 +26,8 @@
             <artifactId>ddrint</artifactId>
             <version>1.0.0</version>
             <scope>system</scope>
-<!--            <systemPath>p:\ddrint.jar</systemPath> -->
-            <systemPath>\\enigma.ksf\projects\030\priv\maximh\p\ddrint.jar</systemPath> 
+            <systemPath>p:\ddrint.jar</systemPath>
+<!--            <systemPath>\\enigma.ksf\projects\030\priv\maximh\p\ddrint.jar</systemPath> -->
         </dependency> 
   </dependencies>
 </project>
